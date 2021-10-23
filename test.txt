@@ -6,3 +6,4 @@ Contributor -2 : I'm adding a line
 
 1: New line
 2: Another line
+1: New line by 1
