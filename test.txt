@@ -5,3 +5,4 @@ Contributor -2 : I'm adding a line
 >>>>>>> ad218352e77efd948fd54463e56c6fd66a089c77
 
 1: New line
+2: Another line
